@@ -7,9 +7,11 @@ Las mejoras incrementaron la precisión del modelo al garantizar que las imágen
 
 #Índice:
 
-[Vista Previa](./A1.6_Regresión_no_lineal.html)
+[Vista Previa](./A_3_2.html)
 
-[Codigo.jpynb](./A1.6_Regresión_no_lineal.ipynb)
+[Codigo.jpynb](./A_3_2.ipynb)
+
+[PDF](./A_3_2.pdf)
 
 
 Referencias:
